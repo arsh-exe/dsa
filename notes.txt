@@ -1,0 +1,17 @@
+-imagine cup
+-claude 5
+if we have to make google from scratch 
+- we need knowledge of dsa 
+like hash and graphs;
+- knowledge graph
+-warehouse -scaling,freedy algorithm,spf
+
+
+
+
+
+design techniques:
+divide and conquer
+dynamic proramming
+greedy algorithm
+backtracking
