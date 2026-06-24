@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+*.class
+# Editor directories
+.vscode/
+# OS files
+Thumbs.db
+.DS_Store
