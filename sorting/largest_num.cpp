@@ -13,8 +13,7 @@ public:
         sort(arr.begin(),arr.end(),cmp);
         if(arr[0]=="0"){
         return "0";
-        } 
-            
+        }            
         string ans = "";
         for(string x : arr){
             ans+=x;
